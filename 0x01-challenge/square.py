@@ -3,6 +3,7 @@
 Module generates square.
 """
 
+
 class square():
     """
     Create empty class square.
